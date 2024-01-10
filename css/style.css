@@ -1,9 +1,9 @@
-#second{
+a[href="https://www.youtube.com/"]{
     color: red;
 }
-#secon{
+a[href="https://validator.w3.org/"]{
     color: red;
 }
-p{
+ul + p{
     font-size: 24px;
 }
